@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - Austin James Robinson
+# #100DaysOfCode Log - Austin James Robinson
 
-The log of my #100DaysOfCode challenge. Started on April ?, 2020.
+The log of my #100DaysOfCode challenge. Started on April 15, 2020.
 
 ## Log
 
@@ -8,8 +8,6 @@ The log of my #100DaysOfCode challenge. Started on April ?, 2020.
 [start here]
 
 ### R1D2
-
-
 
 
 ## Go Back
