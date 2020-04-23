@@ -16,6 +16,9 @@ I reviewed more lessons on Codecademy. I learned the following:
 * Web Accessibility
 
 ### Day 3
+Today's lessons on Codecademy include:
+* CSS Documentation & Debugging
+* Flexbox Layout
 
 ### Day 4
 
