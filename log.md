@@ -27,13 +27,17 @@ Today's lessons on Codecademy include:
 
 I also added a favicon to [iloveaust.in](https://iloveaust.in) thanks to Codecademy lessons!
 
-### Day 4
+### Day 5
+Today's lessons on Codecademy include:
+* Git Workflow
+* I started on the Capstone Project
 
-### Day 4
+### Day 6
+I started working on my professional website using my newfound web development knowledge!
 
-### Day 4
+### Day 7
 
-### Day 4
+### Day 8
 
 
 ## Go Back
