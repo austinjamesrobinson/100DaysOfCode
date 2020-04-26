@@ -34,10 +34,77 @@ Today's lessons on Codecademy include:
 
 ### Day 6
 I started working on my professional website using my newfound web development knowledge!
+* I built the landing page and the home page.
+* I designed the graphic standards and brand guidelines using Adobe Illustrator and InDesign, which you can find via this [tweet](https://twitter.com/AUSTINROBlNSON/status/125448226386296422).
+* I utilized Media Queries and common device breakpoints to make the site responsive. The only devices the site is not designed for yet is mobile.
 
 ### Day 7
+* I had a problem getting the SVG images to load from the local directory, but got around that by pointing to the SVG code instead of the file.
+* I used [Zeit](https:/www.zeit.co) - now Vercel - to deploy the the code to [www.austinjamesrobinson.com](https://www.austinjamesrobinson.com).
 
 ### Day 8
+
+### Day 9
+
+### Day 10
+
+### Day 11
+
+### Day 12
+
+### Day 13
+
+### Day 14
+
+### Day 15
+
+### Day 16
+
+### Day 17
+
+### Day 18
+
+### Day 19
+
+### Day 20
+
+### Day 21
+
+### Day 22
+
+### Day 23
+
+### Day 24
+
+### Day 25
+
+### Day 26
+
+### Day 27
+
+### Day 28
+
+### Day 29
+
+### Day 30
+
+### Day 31
+
+### Day 32
+
+### Day 33
+
+### Day 34
+
+### Day 35
+
+### Day 36
+
+### Day 37
+
+### Day 38
+
+### Day 39
 
 
 ## Go Back
