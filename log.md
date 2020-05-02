@@ -40,17 +40,26 @@ I started working on my professional website using my newfound web development k
 
 ### Day 7
 * I had a problem getting the SVG images to load from the local directory, but got around that by pointing to the SVG code instead of the file.
-* I used [Zeit](https:/www.zeit.co) - now Vercel - to deploy the the code to [www.austinjamesrobinson.com](https://www.austinjamesrobinson.com).
+* I used [Zeit](https://www.zeit.co) - now Vercel - to deploy the the code to [www.austinjamesrobinson.com](https://www.austinjamesrobinson.com).
 
 ### Day 8
+I focused on making designs and writing posts for my new website. Not a lot of code-heavy learning done today. Tomorrow I start learning JavaScript, React, and app development.
 
 ### Day 9
+I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
+* JavaScript Introduction & React Overview
 
 ### Day 10
+* I started writing the content for my website, specifically for the Education and Experience pages.
+* I completed 'Installing & Setting Up Node' on Codecademy.
+* [How To Remember Everything You're Learning](https://www.youtube.com/watch?v=aMzAjQ4uUag)
 
 ### Day 11
+* I completed 'Conditional Statements' on Codecademy.
 
 ### Day 12
+* I completed 'Functions' on Codecademy.
+* I completed 'Arrays' on Codecademy.
 
 ### Day 13
 
