@@ -59,9 +59,10 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 
 ### Day 12
 * I completed 'Functions' on Codecademy.
-* I completed 'Arrays' on Codecademy.
 
 ### Day 13
+* I completed 'Arrays' on Codecademy.
+* I completed 'Loops' on Codecademy.
 
 ### Day 14
 
