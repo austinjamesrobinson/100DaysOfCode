@@ -65,6 +65,8 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * I completed 'Loops' on Codecademy.
 
 ### Day 14
+* I completed 'Iterators' on Codecademy.
+* I completed 'Objects' on Codecademy.
 
 ### Day 15
 
