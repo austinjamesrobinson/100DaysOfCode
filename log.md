@@ -69,6 +69,7 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * I completed 'Objects' on Codecademy.
 
 ### Day 15
+* No progress today! I focused on my writing and my designs. I will make up for today tomorrow!
 
 ### Day 16
 
