@@ -72,6 +72,7 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * No progress today! I focused on my writing and my designs. I will make up for today tomorrow!
 
 ### Day 16
+* Today proved a busier day than I thought, which is no escuse. I am making a plan for tomorrow to ensure I get back on track.
 
 ### Day 17
 
