@@ -75,8 +75,12 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * Today proved a busier day than I thought, which is no escuse. I am making a plan for tomorrow to ensure I get back on track.
 
 ### Day 17
+* I completed 'Classes' on Codecademy.
+* I completed 'Modules' (exports/imports) on Codecademy.
 
 ### Day 18
+* I completed 'Browser Compatability & Transpilation' on Codecademy.
+* I completed 'React & JSX' on Codecademy.
 
 ### Day 19
 
