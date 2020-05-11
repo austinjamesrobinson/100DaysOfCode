@@ -86,8 +86,11 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * I completed 'Programming With Python Introduction' in the Raspberry Pi Beginner's Guide (via my Raspberry Pi).
 
 ### Day 20
+* I completed 'React Components' on Codecademy.
 
 ### Day 21
+* I completed 'Creating a React App' on Codecademy
+* I completed 'Component Interactivity & Props' on Codecademy
 
 ### Day 22
 
