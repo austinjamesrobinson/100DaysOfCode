@@ -93,6 +93,7 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * I completed 'Component Interactivity & Props' on Codecademy
 
 ### Day 22
+* omg okay I have literally no clue how many days it's been since I actually last logged (I think, like, 10). The reason is that I was writing a book with my friend. We wrote it in 7 days and now we're just waiting for it to be published. I'm gonna continue my coding journey by finishing up [www.potholepress.com](https://www.potholepress.com) and release it alongside the beta alongside the book. I'll make sure to include a link to the book too!
 
 ### Day 23
 
