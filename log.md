@@ -92,42 +92,44 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * I completed 'Creating a React App' on Codecademy
 * I completed 'Component Interactivity & Props' on Codecademy
 
-### Day 22
+### Day 22 - 38
 * omg okay I have literally no clue how many days it's been since I actually last logged (I think, like, 10). The reason is that I was writing a book with my friend. We wrote it in 7 days and now we're just waiting for it to be published. I'm gonna continue my coding journey by finishing up [www.potholepress.com](https://www.potholepress.com) and release it alongside the beta alongside the book. I'll make sure to include a link to the book too!
 
-### Day 23
-
-### Day 24
-
-### Day 25
-
-### Day 26
-
-### Day 27
-
-### Day 28
-
-### Day 29
-
-### Day 30
-
-### Day 31
-
-### Day 32
-
-### Day 33
-
-### Day 34
-
-### Day 35
-
-### Day 36
-
-### Day 37
-
-### Day 38
-
 ### Day 39
+* I worked on my publishing press website for the launch of my new book [The Comptroller's Comptroller: How I Became A Comptroller's Comptroller (A True Story)](https://www.amazon.com/dp/0999202952/ref=cm_sw_em_r_mt_dp_U_1yb0EbRJ5GEQZ?fbclid=IwAR3tTw7OOB_69W6X81BGGpZPGidKabnntAIoYsgK0GUkixIfPaIBOYLFYCk). It's not finished, but it's getting there.
+
+### Day 40
+I found an amazing resource online while looking through Reddit. I sent it over to my friend Patrick Golden, and we decided we would complete it together. I also sent it over to my friend Tyler Corley and he told me how he would amend it. You can find it [here] (https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
+
+### Day 41
+
+### Day 42
+
+### Day 43
+
+### Day 44
+
+### Day 45
+
+### Day 46
+
+### Day 47
+
+### Day 48
+
+### Day 49
+
+### Day 50
+
+### Day 51
+
+### Day 52
+
+### Day 53
+
+### Day 54
+
+### Day 55
 
 
 ## Go Back
