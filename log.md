@@ -99,11 +99,15 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 * I worked on my publishing press website for the launch of my new book [The Comptroller's Comptroller: How I Became A Comptroller's Comptroller (A True Story)](https://www.amazon.com/dp/0999202952/ref=cm_sw_em_r_mt_dp_U_1yb0EbRJ5GEQZ?fbclid=IwAR3tTw7OOB_69W6X81BGGpZPGidKabnntAIoYsgK0GUkixIfPaIBOYLFYCk). It's not finished, but it's getting there.
 
 ### Day 40
-I found an amazing resource online while looking through Reddit. I sent it over to my friend Patrick Golden, and we decided we would complete it together. I also sent it over to my friend Tyler Corley and he told me how he would amend it. You can find it [here] (https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
+* I found an amazing resource online while looking through Reddit. I sent it over to my friend Patrick Golden, and we decided we would complete it together. I also sent it over to my friend Tyler Corley and he told me how he would amend it. You can find it [here] (https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
 
 ### Day 41
+* I completed 'React State' on Codecademy
+* I completed 'Stateless Components From Stateful Components' on Codecademy
+* I completed 'HTTP Request' on Codecademy
 
 ### Day 42
+* I started the [CS50x](https://cs50.harvard.edu/x/2020/) course and completed Week 0.
 
 ### Day 43
 
