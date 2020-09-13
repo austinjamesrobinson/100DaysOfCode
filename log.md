@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Austin James Robinson
 
-The log of my #100DaysOfCode challenge. Started on April 15, 2020.
+The log of my #100DaysOfCode challenge. Started on April 15, 2020. Ended prematurely, per the last submission (reason below).
 
 ## Log
 
@@ -109,31 +109,8 @@ I started the Codecademy PRO Skills Path: 'Create a Front-End App with React'.
 ### Day 42
 * I started the [CS50x](https://cs50.harvard.edu/x/2020/) course and completed Week 0.
 
-### Day 43
-
-### Day 44
-
-### Day 45
-
-### Day 46
-
-### Day 47
-
-### Day 48
-
-### Day 49
-
-### Day 50
-
-### Day 51
-
-### Day 52
-
-### Day 53
-
-### Day 54
-
-### Day 55
+### Day X
+* I want to explain why I stopped doing this project. No excuses, but I went through a plethora of life changes during COVID season. When I started this proeject, I had been recently let go due to COVID-19. I wasn't necessarily continuing my Web Development journey to get a job in the near future, but I wanted the skillset to possibly break into the tech world someday - because it's pretty hard in the Social Services industry (very low wages, no benefits, no possibility of retirement, etc.). Alternatively, I knew (know) that skills in web development go beyond tech. For example, someday I would love to do pro-bono web dev for small businesses / non-profits. But I digress. In the middle of my 100 Day Coding Challenge, I got the opportunity of a lifetime: a county government position. In the middle of a pandemic. Basically, I won the lottery. Anyway, now I'm going on Week 8 of my job as a Service Coordinator / Case Manager for Clackamas County, Oregon for people in the Intellectual and/or Developmental Disabilities population. And while that's still Social Services, it's with the government. AKA higher wages (albeit nowhere near tech level), full benefits (again, nowhere near tech level), and guaranteed pension (kind of makes up for being terrible compared to the tech industry). So, I'm comfortable at the moment. Again, this is no excuse to stop my Web Dev / Tech journey, but I do need to take a breather for a minute. There are too many changes going on in my life, and too many things to figure out for me to put my best effort into learning this invaluable skillset. However, I am making plans and will ensure that 2021 (or whenever COVID ends, more likely) is a great jumping off point into mastering certain tech skills - or at least finalizing an impeccable foundation that will lead me there. I'm 25, so I'm in no rush to have the biggest brain in the tech industry. But I also understand I need not put this off. So I will come back to this someday! Mark my words! (In the meantime, I'm going to figure out how to master responsive web design because that consistently kicks my ass.)
 
 
 ## Go Back
